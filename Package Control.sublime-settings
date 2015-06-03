@@ -1,0 +1,16 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"DashDoc",
+		"Markdown Preview",
+		"Package Control",
+		"SideBarEnhancements",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Vintageous"
+	]
+}
